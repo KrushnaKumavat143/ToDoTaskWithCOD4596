@@ -395,6 +395,8 @@ Event listeners are used to detect user actions, such as button clicks.
 Functions are defined to perform specific tasks, such as adding a new task or checking a task.
 DOM manipulation is utilized to dynamically update the HTML content based on user actions.
 
-
 Conclusion
 The To-Do List web application combines HTML, CSS, and JavaScript to provide users with an intuitive interface for managing tasks. The HTML structure defines the layout, CSS enhances the visual appearance, and JavaScript adds functionality and interactivity. Together, these components create a seamless user experience for organizing and managing to-do items.
+
+
+
